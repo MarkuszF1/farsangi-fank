@@ -1,0 +1,51 @@
+body {
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #555555;
+    margin: 0px auto 0px auto; 
+}
+* {
+    box-sizing: border-box;
+}
+body {
+    display: block;
+    margin: 8px;
+}
+h2 {
+    padding: 0 0 10px 20px;
+    margin: 0;
+}
+#tartalom {
+    max-width: 700px;
+    width: 90%;
+    margin: 0 auto 0 auto;
+}
+.fank {
+    float: left;
+    width: 100%;
+    max-width: 421px;
+}
+#fejlec img {
+    text-align: center top;
+    max-width: 700px;
+    margin: 0 auto;
+    width: 100%;
+}
+ul {
+    list-style-type: upper-roman;
+}
+#reszletek {
+    float: left;
+    clear: both;
+    display: table;
+    max-width: 400px;
+}
+#sztori {
+    max-width: 400px;
+    float: left;
+    display: block;
+    content:none;
+}
+#elkeszites {
+    float: left;
+}
